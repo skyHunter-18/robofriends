@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/skyHunter-18/robofriends/static/css/main.5aa791e9.css",
+    "main.js": "/skyHunter-18/robofriends/static/js/main.956ae0dd.js",
+    "static/js/787.32032a02.chunk.js": "/skyHunter-18/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/skyHunter-18/robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/skyHunter-18/robofriends/index.html",
+    "main.5aa791e9.css.map": "/skyHunter-18/robofriends/static/css/main.5aa791e9.css.map",
+    "main.956ae0dd.js.map": "/skyHunter-18/robofriends/static/js/main.956ae0dd.js.map",
+    "787.32032a02.chunk.js.map": "/skyHunter-18/robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aa791e9.css",
+    "static/js/main.956ae0dd.js"
+  ]
+}
